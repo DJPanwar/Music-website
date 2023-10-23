@@ -124,4 +124,18 @@ justify-content: space-between;
     body {
       background-color: rgb(0, 0, 0);
     }
+    .songItem{
+        height:45px;
+    }
+    .timestamp{
+        font-size: 10px;
+    }
+    .songName{
+        font-size: 10px;
+    }
+    .songInfo{
+        position: relative;
+        padding: 6px;
+        left:0vw;
+    }
   }
