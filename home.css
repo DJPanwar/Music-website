@@ -127,6 +127,15 @@ justify-content: space-between;
     .logo {
         width: 100px;
     }
+    .content{
+        top: 30%;
+    }
+    .con{
+        top: 60%;
+    }
+    .bol{
+        top: 70%;
+    }
     .content h1 {
         font-size: 70px;
         line-height: 80px;
