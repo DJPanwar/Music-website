@@ -10,11 +10,11 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    { songName: "Hara Hara Shambhu", filePath: "songs/b1.mp3", coverPath: "covers/b1.jpg" },
-    { songName: "Shree Krishna Govind Hare Murari", filePath: "songs/b2.mp3", coverPath: "covers/b2.jpg" },
-    { songName: "Shish Nawata Hoon", filePath: "songs/b3.mp3", coverPath: "covers/b3.jpg" },
-    { songName: "Ram Siya Ram", filePath: "songs/b4.mp3", coverPath: "covers/b4.jpg" },
-    { songName: "Main Shiv Ka Shiv Mere", filePath: "songs/b5.mp3", coverPath: "covers/b5.jpg" },
+    { songName: "Hara Hara Shambhu", filePath: "bhajansong/b1.mp3", coverPath: "covers/b1.jpg" },
+    { songName: "Shree Krishna Govind Hare Murari", filePath: "bhajansong/b2.mp3", coverPath: "covers/b2.jpg" },
+    { songName: "Shish Nawata Hoon", filePath: "bhajansong/b3.mp3", coverPath: "covers/b3.jpg" },
+    { songName: "Ram Siya Ram", filePath: "bhajansong/b4.mp3", coverPath: "covers/b4.jpg" },
+    { songName: "Main Shiv Ka Shiv Mere", filePath: "bhajansong/b5.mp3", coverPath: "covers/b5.jpg" },
 ]
 
 songItems.forEach((element, i) => {

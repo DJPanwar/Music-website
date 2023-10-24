@@ -10,14 +10,14 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    { songName: "Sorry", filePath: "songs/e1.mp3", coverPath: "covers/e1.jpg" },
-    { songName: "The Nights", filePath: "songs/e2.mp3", coverPath: "covers/e2.jpg" },
-    { songName: "Bones", filePath: "songs/e3.mp3", coverPath: "covers/e3.jpg" },
-    { songName: "Believer", filePath: "songs/e4.mp3", coverPath: "covers/e4.jpg" },
-    { songName: "Girls Like You", filePath: "songs/e5.mp3", coverPath: "covers/e5.jpg" },
-    { songName: "Stay", filePath: "songs/e6.mp3", coverPath: "covers/e6.jpg" },
-    { songName: "Love Yourself", filePath: "songs/e11.mp3", coverPath: "covers/e7.jpg" },
-    { songName: "Let Me Down Slowly", filePath: "songs/e8.mp3", coverPath: "covers/e8.jpg" },
+    { songName: "Sorry", filePath: "english/e1.mp3", coverPath: "covers/e1.jpg" },
+    { songName: "The Nights", filePath: "english/e2.mp3", coverPath: "covers/e2.jpg" },
+    { songName: "Bones", filePath: "english/e3.mp3", coverPath: "covers/e3.jpg" },
+    { songName: "Believer", filePath: "english/e4.mp3", coverPath: "covers/e4.jpg" },
+    { songName: "Girls Like You", filePath: "english/e5.mp3", coverPath: "covers/e5.jpg" },
+    { songName: "Stay", filePath: "english/e6.mp3", coverPath: "covers/e6.jpg" },
+    { songName: "Love Yourself", filePath: "english/e11.mp3", coverPath: "covers/e7.jpg" },
+    { songName: "Let Me Down Slowly", filePath: "english/e8.mp3", coverPath: "covers/e8.jpg" },
 ]
 
 songItems.forEach((element, i) => {

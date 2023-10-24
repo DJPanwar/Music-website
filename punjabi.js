@@ -10,14 +10,14 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    { songName: "Spain", filePath: "songs/p1.mp3", coverPath: "covers/p1.jpg" },
-    { songName: "Obsessed", filePath: "songs/p2.mp3", coverPath: "covers/p2.jpg" },
-    { songName: "Cheques", filePath: "songs/p3.mp3", coverPath: "covers/p3.jpg" },
-    { songName: "One Love", filePath: "songs/p4.mp3", coverPath: "covers/p4.jpg" },
-    { songName: "9:45", filePath: "songs/p5.mp3", coverPath: "covers/p5.jpg" },
-    { songName: "Aam Jahe Munde", filePath: "songs/p6.mp3", coverPath: "covers/p6.jpg" },
-    { songName: "295", filePath: "songs/p7.mp3", coverPath: "covers/p7.jpg" },
-    { songName: "Kalaastar", filePath: "songs/p8.mp3", coverPath: "covers/p8.jpg" },
+    { songName: "Spain", filePath: "punjabisong/p1.mp3", coverPath: "covers/p1.jpg" },
+    { songName: "Obsessed", filePath: "punjabisong/p2.mp3", coverPath: "covers/p2.jpg" },
+    { songName: "Cheques", filePath: "punjabisong/p3.mp3", coverPath: "covers/p3.jpg" },
+    { songName: "One Love", filePath: "punjabisong/p4.mp3", coverPath: "covers/p4.jpg" },
+    { songName: "9:45", filePath: "punjabisong/p5.mp3", coverPath: "covers/p5.jpg" },
+    { songName: "Aam Jahe Munde", filePath: "punjabisong/p6.mp3", coverPath: "covers/p6.jpg" },
+    { songName: "295", filePath: "punjabisong/p7.mp3", coverPath: "covers/p7.jpg" },
+    { songName: "Kalaastar", filePath: "punjabisong/p8.mp3", coverPath: "covers/p8.jpg" },
 ]
 
 songItems.forEach((element, i) => {

@@ -131,11 +131,16 @@ justify-content: space-between;
         font-size: 10px;
     }
     .songName{
-        font-size: 10px;
+        font-size: 8px;
     }
     .songInfo{
         position: relative;
         padding: 6px;
         left:0vw;
+    }
+    .songItem img{
+        width: 43px;
+        margin: 0 1px;
+        border-radius: 34px;
     }
   }
