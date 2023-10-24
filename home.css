@@ -120,8 +120,9 @@ justify-content: space-between;
         text-align: center;
     }
     .navbar ul li {
-        display: block;
-        margin: 10px 0;
+        list-style: none;
+        display: inline-block;
+        margin: 0 5px;
     }
     .logo {
         width: 100px;

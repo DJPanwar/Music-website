@@ -16,7 +16,7 @@ let songs = [
     { songName: "Believer", filePath: "songs/e4.mp3", coverPath: "covers/e4.jpg" },
     { songName: "Girls Like You", filePath: "songs/e5.mp3", coverPath: "covers/e5.jpg" },
     { songName: "Stay", filePath: "songs/e6.mp3", coverPath: "covers/e6.jpg" },
-    { songName: "Love Yourself", filePath: "songs/e7.mp3", coverPath: "covers/e7.jpg" },
+    { songName: "Love Yourself", filePath: "songs/e11.mp3", coverPath: "covers/e7.jpg" },
     { songName: "Let Me Down Slowly", filePath: "songs/e8.mp3", coverPath: "covers/e8.jpg" },
 ]
 

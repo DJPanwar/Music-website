@@ -27,7 +27,7 @@ justify-content: space-between;
 .navbar ul li {
     list-style: none;
     display: inline-block;
-    margin:  0 15px;
+    margin:  0 5px;
 }
 
 .navbar ul li a{
