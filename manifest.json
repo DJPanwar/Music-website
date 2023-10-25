@@ -1,0 +1,16 @@
+{
+    "name":"Music Web App",
+    "short_name": "Music App",
+    "description":"Enjoy music on Sound's",
+    "start_url":"home.html",
+    "display": "standalone",
+    "background_color": "#0c3251",
+    "theme_color":"#03A9F4",
+    "icons":[
+        {
+            "src":"unnamed.jpg",
+            "sizes":"192*192",
+            "type":"image/jpg"
+        }
+    ]
+}
