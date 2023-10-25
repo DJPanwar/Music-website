@@ -4,7 +4,7 @@ self.addEventListener('install', function(event){
             return cache.addAll([
                 '/',
                 'home.html',
-                'unnamed.jpg',
+                'sound.png',
                 'images/wp3631253.jpg',
             ]);
         })
